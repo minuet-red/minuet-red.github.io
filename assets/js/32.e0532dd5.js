@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[32],{467:function(t,e,s){"use strict";s.r(e);var n=s(3),o=Object(n.a)({},(function(){var t=this._self._c;return t("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[t("p",[this._v("在vuepress-theme-reco写md文件的开头必须顶格")])])}),[],!1,null,null,null);e.default=o.exports}}]);
